@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
                BuildableName = "ChemEquilibrium.app"
-               BlueprintName = "Unity-iPhone"
-               ReferencedContainer = "container:Unity-iPhone.xcodeproj">
+               BlueprintName = "ChemEQ"
+               ReferencedContainer = "container:ChemEQ.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,8 +32,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "ChemEquilibrium.app"
-            BlueprintName = "Unity-iPhone"
-            ReferencedContainer = "container:Unity-iPhone.xcodeproj">
+            BlueprintName = "ChemEQ"
+            ReferencedContainer = "container:ChemEQ.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -42,9 +42,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5623C57217FDCB0800090B9E"
-               BuildableName = "Unity-iPhone Tests.xctest"
-               BlueprintName = "Unity-iPhone Tests"
-               ReferencedContainer = "container:Unity-iPhone.xcodeproj">
+               BuildableName = "ChemEQ Tests.xctest"
+               BlueprintName = "ChemEQ Tests"
+               ReferencedContainer = "container:ChemEQ.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,8 +71,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "ChemEquilibrium.app"
-            BlueprintName = "Unity-iPhone"
-            ReferencedContainer = "container:Unity-iPhone.xcodeproj">
+            BlueprintName = "ChemEQ"
+            ReferencedContainer = "container:ChemEQ.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -88,8 +88,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
             BuildableName = "ChemEquilibrium.app"
-            BlueprintName = "Unity-iPhone"
-            ReferencedContainer = "container:Unity-iPhone.xcodeproj">
+            BlueprintName = "ChemEQ"
+            ReferencedContainer = "container:ChemEQ.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

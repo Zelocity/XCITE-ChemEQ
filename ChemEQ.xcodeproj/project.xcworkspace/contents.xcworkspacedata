@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/xciteadmin/Documents/GitHub/XCITE-ChemEQ/ChemEQ.xcodeproj">
    </FileRef>
 </Workspace>
